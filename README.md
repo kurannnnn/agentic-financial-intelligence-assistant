@@ -59,9 +59,10 @@ streamlit run app.py
 
 ```text
 app.py
-rag.py
+financial_rag_engine.py
 requirements.txt
 data/
-finance_faiss/
 screenshots/
+Document_Processing_and_Vectorization.ipynb
+RAG_Pipeline_Validation.ipynb
 ```
