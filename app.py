@@ -1,5 +1,5 @@
 import streamlit as st
-from rag import ask_question
+from financial_rag_engine import ask_question
 
 
 st.set_page_config(
